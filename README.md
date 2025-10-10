@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/rohit-rao-9661111a4/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://rohit-rao.web.app" target="_blank">
+  <a href="https://autofolio.me/flamekaiser" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Personal%20Website&logo=link&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="personal website logo" />
   </a>
   <a href="https://www.instagram.com/_rohitrao._/" target="_blank">
