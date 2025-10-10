@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">🔥 Building backends that never burn out — by Flame Kaiser.</h1>
 
 ###
 
