@@ -29,7 +29,7 @@
 
 <p align="left">
 I'm Rohit Rao from Belagavi, Karnataka.<br><br>
-- 🔭 Software Engineer at <strong>Zaggle</strong><br>
+- 🔭 Software Engineer at <strong>CodeCraft</strong><br> | <strong>Ex-Zaggle</strong><br>
 - 💡 Working with <strong>Springboot</strong> & <strong>Ruby on Rails</strong><br>
 - 📚 Currently exploring <strong>DevOps & Cloud (AWS, Docker, Jenkins)</strong><br>
 - ⚡ Fun fact: I’m also known as <strong>Flame Kaiser</strong> in the dev world 🔥<br>
